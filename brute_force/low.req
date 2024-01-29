@@ -1,0 +1,15 @@
+GET /vulnerabilities/brute/?username=USERNAME&password=PASSWORD&Login=Login&user_token=03b631846dc86c7bde954fc7364847c2 HTTP/1.1
+Host: 127.0.0.1:42001
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Connection: close
+Referer: http://127.0.0.1:42001/vulnerabilities/brute/?username=admin&password=admin&Login=Login&user_token=446a2cfd55a230917b844db3fb6d7bb4
+Cookie: language=en; cookieconsent_status=dismiss; PHPSESSID=30js9m5usddu3g7juupn1ejgi6; security=high
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+
